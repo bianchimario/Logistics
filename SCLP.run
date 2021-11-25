@@ -1,0 +1,7 @@
+reset;
+model SCLP.mod;
+data HCPF.dat;
+option solver cplex;
+solve;
+display Opening;
+display Total_cost;

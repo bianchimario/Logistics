@@ -1,0 +1,7 @@
+reset;
+model MCLP_constraint.mod;
+data HCPF.dat;
+option solver cplex;
+solve;
+display Opening;
+display CoveredRegion;
