@@ -1,5 +1,6 @@
 # Logistics
 **Progetto svolto in collaborazione con Alessandro Vavalà.**
+
 Project: Health Care Provider of Florida Problem
 
 Health Care Provider of Florida (HCPF) is planning to build a number of new emergency-care clinics in central Florida. HCPF management has divided a map of the area into seven regions. They want to locate the emergency centers so that all seven regions will be conveniently served by at least one facility. Five candidate sites are available for constructing the new facilities. The regions that can be served conveniently by each site are indicated by X below:
