@@ -1,5 +1,5 @@
 # Logistics
-**Progetto svolto in collaborazione con Alessandro Vavalà.**
+**Progetto svolto in collaborazione con Alessandro Vavalà**
 
 Project: Health Care Provider of Florida Problem
 
